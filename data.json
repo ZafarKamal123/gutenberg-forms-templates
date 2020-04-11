@@ -3,22 +3,22 @@
         {
             "id": "rec4RiawyPqcyLgUU",
             "fields": {
+                "Data": ".",
                 "Catagories": [
-                    "Agreement Form",
-                    "Admission Form",
-                    "Application Form",
-                    "Appointment Form",
-                    "Booking Form",
-                    "Bug Report Form",
-                    "Complaint Form",
-                    "Contact Form",
-                    "Donation Form",
-                    "Issue Form",
-                    "Online Quiz Form",
-                    "Order Form",
-                    "Registration Form"
-                ],
-                "Data": "."
+                    "Agreement",
+                    "Admission",
+                    "Application",
+                    "Appointment",
+                    "Booking",
+                    "Bug Report",
+                    "Complaint",
+                    "Contact",
+                    "Donation",
+                    "Issue",
+                    "Online Quiz",
+                    "Order",
+                    "Registration"
+                ]
             },
             "createdTime": "2020-04-10T12:55:16.000Z"
         }
